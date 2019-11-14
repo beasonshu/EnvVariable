@@ -1,6 +1,6 @@
 package com.twiceyuan.envvariable.ui;
 
-import android.support.v7.widget.AppCompatImageView;
+import androidx.appcompat.widget.AppCompatImageView;
 import android.util.Log;
 import android.util.SparseBooleanArray;
 import android.view.View;

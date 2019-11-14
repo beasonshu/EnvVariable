@@ -20,9 +20,5 @@ public class EnvApplication extends Application {
         return config;
     }
 
-    @Override
-    public void onTerminate() {
-        super.onTerminate();
-        EnvVariable.syncCache();
-    }
+
 }
